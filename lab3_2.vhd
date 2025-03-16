@@ -1,7 +1,7 @@
 LIBRARY ieee;
 USE ieee.std_logic_1164.all;
 
--- A gated RS latch desribed the hard way
+-- D latch
 
 ENTITY lab3_2 IS
 PORT ( Clk, D : IN STD_LOGIC;
